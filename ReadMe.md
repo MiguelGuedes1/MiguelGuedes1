@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>Hello 👋 My namee is Miguel Guedes.<br> I've been studying programming for about six months. <br>I have the ambition to become a developer and for that I'm studying every<br> day reconciling with a one-year programming course that I'm taking
+<br>👨‍💻 As a Frontend Developer, I specialize in turning ideas into reality by creating intuitive, responsive, and aesthetically pleasing user interfaces. Every project is an opportunity to innovate and improve the digital experience.
+
+🚀 I'm always on the lookout for ways to optimize and enhance the things I build, making them as efficient and user-friendly as possible.
 
 
 ## 🌐 Socials:
