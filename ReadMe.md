@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👨‍💻 As a Frontend Developer, I specialize in turning ideas into reality by creating intuitive, responsive, and aesthetically pleasing user interfaces. Every project is an opportunity to innovate and improve the digital experience.
+<br>👨‍💻 As a Web Developer, I specialize in turning ideas into reality by creating intuitive, responsive, and aesthetically pleasing user interfaces. Every project is an opportunity to innovate and improve the digital experience.
 
 🚀 I'm always on the lookout for ways to optimize and enhance the things I build, making them as efficient and user-friendly as possible.
 
