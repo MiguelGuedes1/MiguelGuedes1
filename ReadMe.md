@@ -1,11 +1,5 @@
 # 💫 About Me:
-<br>👨‍💻 As a Web Developer, I specialize in turning ideas into reality by creating intuitive, responsive, and aesthetically pleasing user interfaces. Every project is an opportunity to innovate and improve the digital experience.
-
-🚀 I'm always on the lookout for ways to optimize and enhance the things I build, making them as efficient and user-friendly as possible.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/miguel.guedes.374) 
+<br>👨‍💻 As a QA Tester with a strong background in Frontend Development, I specialize in ensuring that digital products are not only functional but resilient. 🚀 My expertise in React and JavaScript allows me to perform deep technical audits and build robust automation with Cypress, bridging the gap between development and quality. I don’t just find bugs; I analyze their root cause to optimize the user experience and ensure seamless deployments.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)	![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
