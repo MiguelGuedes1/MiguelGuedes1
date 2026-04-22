@@ -12,7 +12,7 @@
 ### QA Tester · Building quality from requirements to release
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-guedes1)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelGuedes1)
+
 
 </div>
 
@@ -24,9 +24,9 @@ I'm a **QA Tester** focused on delivering reliable, well-documented software qua
 
 I approach every project as if it were a real production environment: structured **User Stories**, well-defined **Acceptance Criteria**, traceable **Test Cases**, formal **Test Executions**, and documented **Bug Reports**. Quality isn't just testing — it's a mindset embedded across the entire delivery cycle.
 
-- 🔍 E2E& automation with Cypress and **manual testing** with full Jira/Xray traceability
-- 📋 Always document as if handing off to a team — because good QA is reproducible QA
-- 🌱 Currently expanding into **BDD/Gherkin**, **CI/CD pipelines** and **performance testing**
+- 🔍 manual testing with full Jira/Xray traceability and E2E automation with Cypress
+- 📋 Always document as if handing off to a team because good QA is reproducible QA
+- 🌱 Currently expanding into BDD/Gherkin, **CI/CD pipelines** and **performance testing**
 - 🧠 Frontend background (React, JavaScript) gives me a technical edge when auditing web UIs
 
 ---
