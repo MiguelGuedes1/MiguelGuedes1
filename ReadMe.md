@@ -22,7 +22,7 @@
 
 I'm a **QA Tester** focused on delivering reliable, well-documented software quality,from manual testing to E2E
 
-I approach every project as if it were a real production environment: structured **User Stories**, well-defined **Acceptance Criteria**, traceable **Test Cases**, formal **Test Executions**, and documented **Bug Reports**. Quality isn't just testing — it's a mindset embedded across the entire delivery cycle.
+I approach every project as if it were a real production environment: structured **User Stories**, well-defined **Acceptance Criteria**, traceable **Test Cases**, formal **Test Executions**, and documented **Bug Reports**. Quality isn't just testing it's a mindset embedded across the entire delivery cycle.
 
 - 🔍 manual testing with full Jira/Xray traceability and E2E automation with Cypress
 - 📋 Always document as if handing off to a team because good QA is reproducible QA
