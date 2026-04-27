@@ -49,6 +49,31 @@ I approach every project as if it were a real production environment: structured
 
 ## 📁 QA Projects
 
+### 🛒 OpenCart — Full Manual Testing Cycle (Agile Scrum)
+> Complete manual testing project simulating a real Agile Scrum environment — from test planning to defect reporting.
+
+| What | How |
+|---|---|
+| Test Planning | Formal Test Plan with scope, risks and entry/exit criteria |
+| Test Design | 20 Test Cases across 5 modules with positive and negative scenarios |
+| Test Management | Jira Scrum + Xray: Epics, Stories, Tests, Test Executions |
+| Defect Reporting | 2 Bug Reports with STR, expected vs actual, screenshot evidence |
+| Documentation | Test Plan, Test Cases Summary, Execution Report on GitHub |
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/MiguelGuedes1/opencart-manual-testing)
+[![Jira](https://img.shields.io/badge/Jira-View%20Board-0052CC?style=flat-square&logo=jira)](https://miguelsilvaguedes1.atlassian.net/jira/software/c/projects/OCT/boards/135)
+
+`Jira` `Xray` `Scrum` `Manual Testing` `Bug Reporting` `GitHub` `Markdown`
+
+| Metric | Value |
+|---|---|
+| Test Cases | 20 |
+| Pass Rate | 90% |
+| Defects Found | 2 |
+| Sprints | 3 |
+
+---
+
 ### 🏡 Shady Meadows B&B — Manual Testing + E2E Automation
 > Full QA coverage of a hotel booking platform — from requirements to automated test execution.
 
