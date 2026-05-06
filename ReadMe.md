@@ -74,6 +74,30 @@ I approach every project as if it were a real production environment: structured
 
 ---
 
+
+### 🗄️ Northwind API | REST API Testing + SQL Server Validation
+> QA project built on a custom REST API connected to Microsoft SQL Server, covering full API testing, automation and database-level validation.
+
+| What | How |
+|---|---|
+| API Built from Scratch | Node.js + Express connected to Northwind SQL Server database |
+| API Testing | Postman collection with 16 requests and 75 assertions |
+| Test Automation | Cypress E2E API automation — 13 automated tests |
+| Database Validation | SQL queries in SSMS validating data integrity after API operations |
+| Reporting | Newman HTMLExtra report + Mochawesome Cypress reports |
+| Documentation | Full README with screenshots, SQL evidence and test results |
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/MiguelGuedes1/northwind-api-qa-testing)
+
+`Node.js` `SQL Server` `Postman` `Newman` `Cypress` `SSMS` `API Testing` `JavaScript`
+
+| Metric | Value |
+|---|---|
+| Postman Assertions | 75 / 75 Passed |
+| Cypress Tests | 13 / 13 Passed |
+| API Endpoints | 11 |
+| DB Tables Validated | 4 |
+
 ### 🏡 Shady Meadows B&B — Manual Testing + E2E Automation
 > Full QA coverage of a hotel booking platform — from requirements to automated test execution.
 
