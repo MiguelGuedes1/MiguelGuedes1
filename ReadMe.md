@@ -13,6 +13,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-guedes1)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-miguelguedes--qa.vercel.app-blue?style=for-the-badge)](https://miguelguedes-qa.vercel.app)
+
 
 </div>
 
